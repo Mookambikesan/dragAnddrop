@@ -1,0 +1,67 @@
+.search {
+    text-align: 14.5%;
+    margin-top: 10px;
+    padding-top:0px;
+    position: relative;
+    top:20px;
+    margin-left: 55%;
+}
+
+
+.search input{
+    width: 100%;
+    padding: 15px 25px;
+    font-size: 18px;
+}
+#icon{
+
+    object-position: 40px;
+    padding-right: 50%;
+    position:absolute;
+    top:-0.7px;
+    padding-top: 80px;
+    top:-60px;
+    left: 10px;
+
+    
+
+}
+#acc{
+
+    position:relative;
+    top:-150px;
+    padding-top: 80px;
+    padding-left: 100px;
+    left: 450px;
+    
+
+}
+#question{
+    
+   position: absolute;
+   padding-left: 440px;
+   margin-top: -210px;
+   right: -260px;
+
+}
+#gift{
+    padding-left: 440px;
+    position:absolute;
+    margin-top:px;;
+    padding: 80px;
+    right: -310px;
+    top:-55px;
+    
+
+}
+img{
+    height: 70px;
+    position: absolute;
+    margin-top: -250px;
+    right: 1010px;
+    width: 70px;
+
+
+}
+
+

@@ -1,0 +1,88 @@
+body{
+    padding:0;
+    margin:0;
+    background-color: rgb(246, 244, 241);
+}
+.NavBar{
+    height: 100vh;
+    width:65px;
+    background-color: rgb(33, 65, 123);
+    
+
+}
+.Icons{
+    color: aliceblue;
+}
+.Icons li{
+    list-style: none;
+    padding: 1rem 2rem;
+    padding-left: 0;
+}
+.ri-account-circle-line{
+    padding-left: 13px;
+    color:rgba(66, 68, 129, 0.72) ;
+    
+}
+.ri-speed-up-line {
+    padding: 16px;
+}
+.ri-clipboard-fill {
+    padding: 16px;
+}
+.ri-briefcase-4-fill{
+    padding: 16px;
+}
+.ri-group-fill{
+    padding: 16px;
+}
+.ri-account-circle-line:hover{
+    background-color: rgb(99, 46, 142);
+    border-radius: 12px;
+    color: rgb(108, 155, 155);
+    margin-left: 2px;
+    padding-left: 40%;
+    padding-right: 13px;
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+.ri-speed-up-line:hover{
+    background-color: rgb(113, 34, 181);
+    border-radius: 12px;
+    color:aliceblue;
+    margin-left: 2px;
+    padding-left: 40%;
+    padding-right: 13px;
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+.ri-clipboard-fill:hover{
+    background-color: rgb(113, 34, 181);
+    border-radius: 12px;
+    color:aliceblue;
+    margin-left: 2px;
+    padding-left: 40%;
+    padding-right: 13px;
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+.ri-briefcase-4-fill:hover{
+    background-color: rgb(113, 34, 181);
+    border-radius: 12px;
+    color:aliceblue;
+    margin-left: 50px;
+    padding-left: 30%;
+    padding-right: 30px;
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+.ri-group-fill:hover{
+    background-color: rgb(113, 34, 181);
+    border-radius: 12px;  
+    color: aliceblue;
+    margin-left: 2px;
+    padding-left: 40%;
+    padding-right: 13px;
+    padding-top: 40%;
+    padding-bottom: 40%;
+    
+}

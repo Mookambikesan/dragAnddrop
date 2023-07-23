@@ -1,0 +1,24 @@
+
+.Two{
+    height: 7vh;
+    width: 96vw;
+    background-color: rgb(242, 239, 244);
+    margin-right:0px;
+    margin-left: -1086px;
+    margin-top: 95px;
+    position: sticky;
+ 
+}
+#job{
+    padding-left: 18px;
+    height: 3vh;
+    width: 3vw;
+    padding-top: 15px;
+    position: relative;
+}
+.Cd{
+    padding: 6px;
+    margin-left: 1120px;
+    margin-top: -90px;
+    position: relative;
+}
